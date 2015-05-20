@@ -7,7 +7,7 @@ Package.describe({
 
 Cordova.depends({
   // http://plugins.cordova.io/#/package/com.romainstrock.cordova.background-geolocation
-  'com.transistorsoft.cordova.background-geolocation':'git@github.com:christocracy/cordova-background-geolocation/tarball/6bef7fed7cdf4083a795cf8fd7b89cbbadf12d52',
+  'com.transistorsoft.cordova.background-geolocation':'https://github.com/christocracy/cordova-background-geolocation/tarball/6bef7fed7cdf4083a795cf8fd7b89cbbadf12d52',
   'org.apache.cordova.geolocation': '0.3.12',
   'org.apache.cordova.device': '0.2.11'
 });

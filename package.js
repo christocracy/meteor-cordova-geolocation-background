@@ -1,13 +1,13 @@
 Package.describe({
   summary: "Cordova enabled background geolocation, even when closed/suspended",
-  version: "0.0.92",
+  version: "0.0.94",
   name: "christocracy:cordova-background-geolocation",
   git: "https://github.com/christocracy/meteor-cordova-geolocation-background"
 });
 
 Cordova.depends({
   // http://plugins.cordova.io/#/package/com.romainstrock.cordova.background-geolocation
-  'christocracy/cordova-background-geolocation.git': '0.4.0',
+  'com.transistorsoft.cordova.background-geolocation':'git@github.com:christocracy/cordova-background-geolocation/tarball/6bef7fed7cdf4083a795cf8fd7b89cbbadf12d52'
   'org.apache.cordova.geolocation': '0.3.12',
   'org.apache.cordova.device': '0.2.11'
 });

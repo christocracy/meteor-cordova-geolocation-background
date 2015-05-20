@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Cordova enabled background geolocation, even when closed/suspended",
-  version: "0.0.9.1",
+  version: "0.0.91",
   name: "christocracy:cordova-background-geolocation",
   git: "christocracy/cordova-background-geolocation.git"
 });
